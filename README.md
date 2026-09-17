@@ -136,7 +136,7 @@ Main
 
 - [`GoogleSignInService.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/Auth/GoogleSignInService.cs)
 - [`UnityAuthService.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/Auth/UnityAuthService.cs)
-- [`BackendManager.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/Managers/BackendManager.cs)
+- [`LoginUI.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/UI/LoginUI.cs)
 
 ### 설계 방향
 
