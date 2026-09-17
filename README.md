@@ -169,9 +169,7 @@ Firebase Authentication
 
 ### 관련 코드
 
-- `Firestore`
-- `Feed Data`
-- `MeowMeowStar`
+- [`Extensionshuffle.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/FireStoreManager/important/extension%20method/Extensionshuffle.cs)
 
 ### 문제
 
@@ -192,7 +190,7 @@ Firebase Authentication
 ```text
 기준 필드
     ↓
-WhereGreaterThanOrEqualTo
+WhereGreaterThanOrEqualTo or WhereLessThan
     ↓
 Limit(N)
     ↓
@@ -215,9 +213,7 @@ Limit(N)
 
 ### 관련 코드
 
-- `EventBus`
-- `UploadCanvas`
-- `ImageEditButton`
+- [`SubscribeManager.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/tree/main/MeowMeow/Assets/_Project/02_Scripts/Managers) 
 
 ### 문제
 
