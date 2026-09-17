@@ -250,9 +250,9 @@ Publisher가 Subscriber의 구현을 직접 참조하지 않도록 구성했습�
 ## 4. 이미지 편집
 
 ### 관련 코드
-
-- `CGEditor`
-- Image Edit Shader
+- [` UIImageShaderController`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/UI/UI_Shader/UIShaderController.cs)
+- [`CGPropertyPresenter`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/UI/UI_Shader/CGPropertyPresenter.cs)
+- [ `UI_PostProcessingImage.shader`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/04_StaticResources/Shader/UI_PostProcessingImage.shader)
 
 ### 구현 목적
 
