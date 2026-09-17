@@ -285,7 +285,8 @@ UI 실시간 반영
 
 ### 관련 코드
 
-- `StickerCanvas`
+ 
+- [`StickerStateSingleton`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/UI/UI_Sticker_Panel/StickerStateSingleton.cs)
 
 ### 문제
 
