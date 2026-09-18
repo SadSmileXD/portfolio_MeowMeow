@@ -320,9 +320,9 @@ Sticker의 사용 빈도와 동시 생성 제한이 낮아 상시 Pool을 유지
 
 ### 관련 코드
 
-- `GoogleSheetManager`
-- `ScriptableObject Data`
-- Editor Tool
+- [`GoogleSheetManager`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/Utility/GoogleSheetParse/03.Manager/googleSheetManager.cs)
+- [`SheetLoader.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/Utility/GoogleSheetParse/01.Core/SheetLoader.cs)
+ 
 
 ### 문제
 
