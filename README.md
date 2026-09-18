@@ -398,10 +398,8 @@ Profile 진입 시 로컬 데이터를 사용하여 반복적인 Firestore 조�
 
 ### 관련 코드
 
-- Gacha Data
-- Reward Data
-- ScriptableObject
-
+- [`GatchaDataManager.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/_Project/02_Scripts/Managers/GatchaDataManager.cs)
+- [`GachaLogic`](https://github.com/SadSmileXD/portfolio_MeowMeow/tree/main/MeowMeow/Assets/_Project/02_Scripts/GatchaLogic)
 ### 설계 방향
 
 외부 기획 데이터를 코드와 분리하여 보상 테이블이 변경될 경우 코드 수정 범위를 줄였습니다.
@@ -472,6 +470,10 @@ Data SO
 ---
 
 ## 10. Firestore Wrapper
+### 관련 코드
+- [`FireStoreManager.cs`](https://github.com/SadSmileXD/portfolio_MeowMeow/blob/main/MeowMeow/Assets/FireStoreManager/important/Manager/FireStoreManager.cs)
+- [`firestoreLogic`](https://github.com/SadSmileXD/portfolio_MeowMeow/tree/main/MeowMeow/Assets/FireStoreManager/important)
+
 
 ### 문제
 
